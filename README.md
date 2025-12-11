@@ -1,54 +1,79 @@
-# Hi 👋, I'm Huy  
-### 💻 Fullstack Developer | 🤖 AI/ML Enthusiast | 🌱 Lifelong Learner  
-
-Welcome to my GitHub profile!  
-I love building fullstack applications, exploring AI/ML, and improving myself every day.
+<h1 align="center">Hi 👋, I'm Huy</h1>
 
 ---
 
-## 🌐 Socials  
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.hoang.huy.613284)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NGUYEN-HOANG-HUY)
+# 🛠️ Tech Stack Overview
+
+## 🔌 IoT & Embedded  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack  
-
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Backend**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### **AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+## 🎨 Design / UI  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-HOANG-HUY&show_icons=true&theme=radical)
+## 🔧 Tools  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-HOANG-HUY&layout=compact&theme=radical)
+### 🔹 GitHub  
+**Badge style:**
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+
+**Devicon style:**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=NGUYEN-HOANG-HUY&theme=dracula&no-frame=true&row=1&column=6)
+# 📊 GitHub Stats
+<div align="center">
+
+![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-HOANG-HUY&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-HOANG-HUY&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 📌 Featured Projects  
+# ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+# 📌 Featured Projects  
 🚀 *Coming soon… building fullstack & AI projects!*
 
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| Portfolio-WebApp | Web portfolio cá nhân | React, Tailwind, Node.js | [Link](#) |
+| AI Chatbot | Chatbot sử dụng NLP | Python, Flask, TensorFlow | [Link](#) |
+| E-Commerce App | App bán hàng online | React, Redux, Firebase | [Link](#) |
+
 ---
 
-## 🧠 Random Dev Quote  
+# 🧠 Random Dev Meme  
 > “The best error message is the one that never shows up.”  
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+
+# 📫 Contact Me  
+- 💼 Portfolio: updating...
+- 📧 Email: [![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](mailto:nguyenhuyhoang2k4smart-email@example.com)  
+- 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-ho%C3%A0ng-87a335378/)
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving my repositories a star! ⭐
+</p>
