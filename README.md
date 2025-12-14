@@ -1,79 +1,75 @@
-<h1 align="center">Hi 👋, I'm Huy</h1>
-
----
-
-# 🛠️ Tech Stack Overview
-
-## 🔌 IoT & Embedded  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-## 🎨 Design / UI  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 🔧 Tools  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 🔹 GitHub  
-**Badge style:**
-
-![GitHub Badge](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
-
-**Devicon style:**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-<div align="center">
-
-![Huy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-HOANG-HUY&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-HOANG-HUY&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-# 📌 Featured Projects  
-🚀 *Coming soon… building fullstack & AI projects!*
-
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| Portfolio-WebApp | Web portfolio cá nhân | React, Tailwind, Node.js | [Link](#) |
-| AI Chatbot | Chatbot sử dụng NLP | Python, Flask, TensorFlow | [Link](#) |
-| E-Commerce App | App bán hàng online | React, Redux, Firebase | [Link](#) |
-
----
-
-# 🧠 Random Dev Meme  
-> “The best error message is the one that never shows up.”  
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-
-# 📫 Contact Me  
-- 💼 Portfolio: updating...
-- 📧 Email: [![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](mailto:nguyenhuyhoang2k4smart-email@example.com)  
-- 🌐 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-ho%C3%A0ng-87a335378/)
-
----
+<h1 align="center">👋 Hi, I'm Huy</h1>
+<h3 align="center">Fullstack Developer | AI-Oriented Learner</h3>
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star! ⭐
+  <i>Building real-world applications • Learning for the long term</i>
+</p>
+
+<hr/>
+
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🎓 Fullstack Developer learner (Frontend + Backend)</li>
+  <li>🤖 Interested in AI, automation, and intelligent systems</li>
+  <li>🧠 Focus on practical skills & real projects</li>
+  <li>🎯 Goal: Become a professional Fullstack Developer with AI integration</li>
+</ul>
+
+<hr/>
+
+<h2>🧑‍💻 Tech Stack</h2>
+
+<h3>⚙️ Frontend</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
+
+<h3>🔧 Backend</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+</p>
+
+<h3>🗄️ Database</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+<h3>🤖 AI / Machine Learning</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+</p>
+
+<hr/>
+
+<h2>📌 What I'm Working On</h2>
+<ul>
+  <li>🔹 Fullstack Web Applications (React / Next.js + Node.js)</li>
+  <li>🔹 RESTful APIs & Authentication (JWT)</li>
+  <li>🔹 AI-powered Web Applications</li>
+</ul>
+
+<hr/>
+
+<h2>📫 Contact</h2>
+<ul>
+  <li>🌐 GitHub: <a href="https://github.com/your-username">your-username</a></li>
+  <li>📧 Email: your-email@example.com</li>
+</ul>
+
+<p align="center">
+  ✨ Learning consistently • Building seriously • Growing long-term ✨
 </p>
