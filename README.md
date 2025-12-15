@@ -66,8 +66,8 @@
 
 <h2>📫 Contact</h2>
 <ul>
-  <li>🌐 GitHub: <a href="https://github.com/your-username">your-username</a></li>
-  <li>📧 Email: your-email@example.com</li>
+  * 📧 Email: [your-email@example.com](mailto:huynguyenhoangquoc97-email@email.com)
+  * 🌐 GitHub: [https://github.com/your-username](https://github.com/NguyenHoangHuy123)
 </ul>
 
 <p align="center">
